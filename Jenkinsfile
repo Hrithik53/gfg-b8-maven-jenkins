@@ -26,7 +26,7 @@ pipeline {
 			}	
 		stage ('Stage Final: Build Success'){
 			steps {
-				echo  'Hello build Success it's working as expected'
+				echo  'Hello build Success it's working'
 				}
 			}
 		}
